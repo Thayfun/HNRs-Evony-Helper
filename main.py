@@ -21,7 +21,7 @@ import datetime
 from discord.ext import commands, tasks
 
 # SEE: static vars to separate access file
-my_secret = os.environ['token']
+my_secret = os.environ['MTAxMTI5MDI2ODI0NDM5ODA5MA.GeRNGi.b7aWbt4fGJiVLo9quwca9Vtg2EL26MXjUMOC-w']
 prefix = '/'
 version = 1.7
 logo = 'https://cdn.discordapp.com/attachments/968595427228286976/972125616730144778/honor2_031019-1.jpg'
